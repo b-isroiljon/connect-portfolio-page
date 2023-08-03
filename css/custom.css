@@ -1,0 +1,130 @@
+@media (min-width: 1400px) {
+    .cotainer {
+        max-width: 1140px;
+    }
+}
+
+/* text-colors */
+.text-dark-cutom {
+    color: #3a3a47 !important;
+}
+
+.text-grey-custom {
+    color: #5c5c5c !important;
+}
+
+.text-light-grey-custom {
+    color: #818198 !important;
+}
+
+.text-dark-blue-custom {
+    color: #383b61 !important;
+}
+
+.text-blue-custom {
+    color: #3498db !important;
+}
+
+.text-green-custom {
+    color: #21bf73 !important;
+}
+
+/* background-color */
+.bg-primary-custom {
+    background-color: #f0f5f9 !important;
+}
+
+/* forms and buttons style */
+.btn {
+    padding: 0 20px;
+    line-height: 38px;
+}
+
+.btn-blue-custom {
+    border: 2px solid #3498db;
+    color: #3498db;
+}
+
+.btn-blue-custom:hover {
+    background-color: #3498db;
+    color: #ffffff;
+}
+
+.btn-success-custom {
+    border: 2px solid #21bf73;
+    background-color: #21bf73;
+    color: #ffffff;  
+}
+
+.btn-success-custom:hover {
+    color: #ffffff;
+}
+
+/* form control custom */
+.form-control-custom {
+    color: #222222;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 500;
+    width: 500px;
+    height: 45px;
+    border: 0;
+    border-radius: 5px 0 0 5px;
+    background-color: #f0f5f8;
+    outline: none;
+    padding-left: 20px;
+}
+
+/* navigation menu */
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* home */
+.home {
+    padding: 150PX 0 100px 0;
+}
+
+.about__card-1 {
+    background-color: #f6eedf;
+}
+
+.about__card-2 {
+    background-color: #f8f9fa;
+}
+
+.about__card-1 {
+    background-color: #f0f5f9;
+}
+
+.features__container {
+    background-color: #F0F5F9;
+}
+
+.results__card-image {
+    width: 80px;
+}
+
+.reviews__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+
+.pricing__card {
+    background-color: #F0F5F9;
+}
+
+.faq__container {
+    padding: 100px 50px;
+    background-color: #F0F5F9;
+}
